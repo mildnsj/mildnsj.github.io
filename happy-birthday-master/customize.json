@@ -1,0 +1,23 @@
+{
+  "greeting": "您好！",
+  "name": "姥姥",
+  "greetingText": "非常高兴",
+  "wishText": "希望快乐与您相伴",
+  "imagePath": "img/lydia2.png",
+  "text1": "今天是你的生日",
+  "textInChatBox": "生日快乐！！！",
+  "sendButtonLabel": "送",
+  "text2": "这就是我要做的",
+  "text3": "但是我停下了",
+  "text4": "我发现，我真的想要做点什么",
+  "text4Adjective": "特殊的",
+  "text5Entry": "因为",
+  "text5Content": "您也很特殊",
+  "smiley": ":)",
+  "bigTextPart1": "所",
+  "bigTextPart2": "以",
+  "wishHeading": "生日快乐！",
+  "outroText": "希望您能喜欢！",
+  "replayText": "点击再来一遍",
+  "outroSmiley": ":)"
+}
